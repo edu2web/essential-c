@@ -1,3 +1,19 @@
-# First Chapter
+# 第1章　基本的なプログラム
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1. ### Hello World！
+2. ### printf\(\)と定数
+3. ### 変数
+4. ### 数値型
+5. ### 文字型
+6. ### 文字列
+7. ### printf\(\)の書式設定
+8. ### コラム～日本語について～
+
+![](/assets/import.png)
+
+
+
+
+
+
+
